@@ -31,7 +31,6 @@ article {
 .blocks {
     display: flex;
     flex-direction: column;
-    position: relative;
     float: right;
     align-items: flex-end;
     margin-top: -80px;
