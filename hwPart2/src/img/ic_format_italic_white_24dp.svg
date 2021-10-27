@@ -1,10 +1,3 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19" height="22" viewBox="0 0 19 22">
-  <defs>
-    <style>
-      .cls-1 {
-        opacity: 0.5;
-      }
-    </style>
-  </defs>
-  <image id="ic_format_italic_white_24dp" class="cls-1" width="19" height="22" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAWCAYAAAAinad/AAABGUlEQVQ4jZ2UsWoCQRCGvxNFRAhRsUtpZWFIUvkseQafyc6HkSCKCmlSWCQEQlKYGFDQk8ELHDO758Svupn777+Z3Z1N0jQlQAt4tOlC1uXI6wrQNNli6iWTOhEs9wy/MbNYvoh6rM0t8Jo974E2UFOaN9XBd2wDNINsU/5YAcNL2ukrI+HJqJxm9yr+ApZG5TDrZuuVZwwcjNJhdqfiDbAwKofZDdBRuSnwY5QOs1sgycVyROZG5TC7Bnoq9wy8G6XDTKqq5mI5jBOjcpjJkD+onFT0YpQOM6nqSuXGRhVAmyWBQ/oBzOynFpnNgaq0oVQy9Ovcj0fAp3ECyoG501TVFMiautr0EL1mLjGLfiNtyi3wH3ZBMXAE9JkvodmMzxAAAAAASUVORK5CYII="/>
+  <image id="ic_format_italic_white_24dp" width="19" height="22" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAWCAYAAAAinad/AAABMklEQVQ4ja2UMUqEMRCFP3XXYgsFQbERRBHBE3gIS2sP4THst7Cxs/AAewBLkS21+MVGBEGwWMFGXZ9kjZCdTP6N4IOBPy8vM28S/pmThINdYJDTrXjsFLZ7wHbGtmN1PqN+8Jkxs/FSSlZy3Ia10qFX4Cp+fwB7wIrRDE0HT4QHqIhG07j0zpTaTHEM7BjuNFMFeBVM3BhXd5K6jm6ms8N4Xyn68R5zeBWSGBhXz5LWHd0kMiKJfUljk+zE0VW1eQRT++/AeaaqeIBNSSPj6sLRVTkLrpaS9RdwlqkqnPUkPRhXQ0eXhecsuNowXD9TeTDZw3y7Nq5uJXU8JzbC4SapsQBsmZqjMPiAxbg+ABrH12TU2P/OYjnGL8LgdFHzo1uM/zNZt7QR2rz/Y7I3lwW+AaLLzYZWqhT+AAAAAElFTkSuQmCC"/>
 </svg>
